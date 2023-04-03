@@ -1,0 +1,113 @@
+{
+    "userRoles": {
+        "users": [
+          {
+            "id": 1,
+            "userName": "Joseph",
+            "mail": "Hi@gmail.com",
+            "password": "123@@@",
+            "contactNumber": "+923456789123" 
+          },
+          {
+            "id": 2,
+            "userName": "Bob Jhon",
+            "mail": "Hello@gmail.com",
+            "password": "456@@@",
+            "contactNumber": "+929856789123" 
+          }
+        ],
+        "drivers": [
+          {
+            "id": 1,
+            "username": "Bob Johnson",
+            "email": "bohJohnson@gmail.com",
+            "contactNumber": "93439393990",
+            "age": 45,
+            "license_number": "ABC123",
+            "yearOfExperience": 4
+          },
+          {
+            "id": 2,
+            "username": "Jhon Abraham",
+            "email": "bohJohnson@gmail.com",
+            "contactNumber": "93439393990",
+            "age": 45,
+            "license_number": "ABC123",
+            "yearOfExperience": 4
+          }
+        ]
+      },
+    
+    "services": [
+      {
+        "id": 1,
+        "title": "City Transfer",
+        "icon": "ri-map-pin-2-line",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+      },
+      {
+        "id": 2,
+        "title": "Whole  City Tour",
+        "icon": "ri-community-line",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+      },
+      {
+        "id": 3,
+        "title": "Unlimited Miles Car Rental",
+        "icon": "ri-roadster-line",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+      },
+      {
+        "id": 4,
+        "title": "Fast & Easy Booking",
+        "icon": "ri-timer-flash-line",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+      },
+      {
+        "id": 5,
+        "title": "Many Pickup Locations",
+        "icon": "ri-map-pin-line",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+      },
+      {
+        "id": 6,
+        "title": "Airport Transfer",
+        "icon": "ri-flight-takeoff-line",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+      }
+    ],
+    
+    "cars": [
+      {
+        "id": 1,
+        "brand": "Tesla",
+        "rating": 112,
+        "carName": "Tesla Malibu",
+        "imgUrl": "https://www.carrental.kkia.my/wp-content/uploads/2019/11/Honda-HRV-Auto.jpg",
+        "model": "Model 3",
+        "carRentType": ["perDay", "perHour", "perMiles"],
+        "price": 50,
+        "speed": "20kmpl",
+        "gps": "GPS Navigation",
+        "seatType": "Heated seats",
+        "automatic": "Automatic",
+        "description": " Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+      },
+      {
+        "id": 2,
+        "brand": "Toyota",
+        "rating": 102,
+        "carName": "Toyota Aventador",
+        "imgUrl": "https://www.carrental.kkia.my/wp-content/uploads/2023/02/Toyota-rush-2023-HD.jpg",
+        "model": "Model-2022",
+        "carRentType": ["perDay", "perHour", "perMile"],
+        "price": 50,
+        "speed": "20kmpl",
+        "gps": "GPS Navigation",
+        "seatType": "Heated seats",
+        "automatic": "Automatic",
+        "description": " Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+      }
+    ]
+  }
+  
